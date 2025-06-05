@@ -100,7 +100,4 @@ Este projeto está sob a licença MIT — veja o arquivo **LICENSE** para detalh
 
 ## 👥 **Autores**
 
-- [Seu Nome 1]  
-- [Seu Nome 2]  
-- [Seu Nome 3]  
-- [Seu Nome 4]
+- [Guilherme Henke Saueressig]  
